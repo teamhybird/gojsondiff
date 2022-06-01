@@ -1,13 +1,13 @@
 package formatter_test
 
 import (
-	. "github.com/yudai/gojsondiff/formatter"
+	. "github.com/teamhybird/gojsondiff/formatter"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/yudai/gojsondiff/tests"
+	. "github.com/teamhybird/gojsondiff/tests"
 
-	diff "github.com/yudai/gojsondiff"
+	diff "github.com/teamhybird/gojsondiff"
 )
 
 var _ = Describe("Delta", func() {

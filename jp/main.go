@@ -8,7 +8,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	diff "github.com/yudai/gojsondiff"
+	diff "github.com/teamhybird/gojsondiff"
 )
 
 func main() {
